@@ -2,7 +2,7 @@
 
 📧 Email: 20jr1a05b2@gmail.com | 📱 Phone: 8317591915
 
-
+Linkedin:www.linkedin.com/in/gopi-siddhardha-reddy-lella
 ## Technical Skills
 
 - **Programming Languages:** C, Python, Java
